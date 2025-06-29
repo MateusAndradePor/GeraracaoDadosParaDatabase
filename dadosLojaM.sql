@@ -119,6 +119,6 @@ JSON_TABLE (
 ) AS jt;
 	
 
--- Teste das tabelas:
+-- Teste das tabelas:/
 -- SELECT * FROM funcionarios LIMIT 10;
 -- SELECT * FROM clientes LIMIT 10;
