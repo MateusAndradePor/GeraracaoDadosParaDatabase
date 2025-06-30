@@ -1,0 +1,49 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# PyCharm / JetBrains
+.idea/
+
+# VSCode
+.vscode/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários e backups
+*.log
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuração do sistema
+.env
+.env.*
+
+# Arquivos gerados
+*.sqlite3
+*.db
+
+# Testes
+.coverage
+.tox/
+.nox/
+
+# mypy, pylint, etc.
+.mypy_cache/
+.pytest_cache/
+.cache/
